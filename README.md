@@ -7,4 +7,4 @@ De LIMO (Landelijke Interuniversitaire Mathematische Olympiade) is een nationale
 Deze site is in 2016 geschreven door Ismani Nieuweboer (github.com/inieuweboer/limo_website), voor de 2017-editie geüpdated door Koen Timmermans en voor de 2019-editie geüpdated door Sebastian Zur
 
 Contact:
-limo2019 [apenstaartje] nsabwe [punt] nl
+limo2019 [apenstaartje] nsaweb [punt] nl
