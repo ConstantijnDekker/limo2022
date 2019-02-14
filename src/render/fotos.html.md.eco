@@ -1,0 +1,48 @@
+---
+title: "Foto's"
+isPage: false
+showLogo: false
+order: 7
+---
+
+### Foto's
+
+<div class="row">
+  <% folder = 'img/fotos/'; %>
+  <% thumbs_folder = '/img/fotos_thumb/'; %>
+
+  <% # Loop over photos %>
+  <% n = 1 %>
+  <% for file in @getFilesAtPath(relativeOutDirPath: folder).toJSON() : %>
+      <span class="col-sm-3 foto"> <% #really weird how it acts with div instead of span %>
+
+        <% # Element per photo %>
+        <% @getUrl(file) %>
+          <img class="img-responsive gallery-foto" src="<%= @site.url + thumbs_folder + file.basename + '.jpg' %>" alt="<%= file.basename %>" onclick="openModal();currentSlide(<%=n %>)" />
+          <% n = n + 1 %>
+        <!-- /a -->
+        <% console.log file %>
+      </span>
+  <% end %>
+</div>
+
+<div class="modal" id="myModal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+  <% # Loop over photos %>
+  <% N = n-1 %>
+  <% n = 1 %>
+  <% for file in @getFilesAtPath(relativeOutDirPath: folder).toJSON() : %>
+        <span class="mySlides">
+         <div class="numbertext"><%= n %> / <%= N %></div>
+         <img src="<%= @getUrl(file) %>" />
+        </span>
+        <% n = n + 1 %>
+  <% end %>
+  
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+
+<script src="scripts/lightbox.js" onload="document.addEventListener('keydown', keyDownTextField, false);"/>

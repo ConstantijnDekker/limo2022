@@ -1,0 +1,32 @@
+---
+title: "Commissie"
+isPage: true
+showLogo: false
+order: 8
+---
+
+### Commissie
+
+De LIMO-commissie is dit jaar als volgt samengesteld:
+
+<div class="row">
+  <% # Loop across committee members defined in docpad.coffee %>
+  <% for item in @committee_list: %>
+    <span class="col-sm-4"> <% #really weird how it acts with div instead of span %>
+
+      <img class="img-responsive commissie-foto" src="<%- "img/commissie/#{item.abbr}.jpg"%>" alt="<%- item.abbr%>" />
+      <p class="name text-center">
+        <%- item.name %>
+        &mdash;
+        <em>
+          <%- item.func %>
+        </em>
+      </p>
+    </span>
+  <% end %>
+</div>
+
+### Groepsfoto
+<center><img style="max-width: 100%" src="img/commissie/Commissie.jpg" /></center>
+
+<center><i>vlnr. Duncan, Simon, Wouter, Lies, Sebastian en Femke.
