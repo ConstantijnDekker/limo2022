@@ -11,8 +11,8 @@ docpadConfig = {
 
     # =================================
     # Template Configuration
-	
-	plugins:
+    
+    plugins:
         livereload:
             enabled: false
 
@@ -27,7 +27,9 @@ docpadConfig = {
                 when "ASML" then "https://www.asml.com/careers/"
                 when "UUtrecht" then "http://www.uu.nl/"
                 when "Transtrend" then "http://www.transtrend.com/nl/"
-			    
+                when "FlowTraders" then "https://www.flowtraders.com/"
+                when "Digital" then "http://www.thedigitalcapabilitycompany.com/"
+                
         committee_src: "img/commissie/"
 
         # Sort of a dictionary where the first item of the tuple is the key
@@ -99,7 +101,8 @@ docpadConfig = {
         development:
             templateData:
                 site:
-                   url: 'https://limo2019.nsaweb.nl'
+                    url: 'https://limo2019.nsaweb.nl'
+                    #url: 'http://localhost:9778'
 
     # =================================
     # Paths Configuration

@@ -1,10 +1,17 @@
 var sponsoren = [
 	["ASML", "https://www.asml.com/careers/"],
 	["FlowTraders", "https://www.flowtraders.com/"],
-	["Digital Capability Company", "http://www.thedigitalcapabilitycompany.com/"]
+	["Digital Capability Company", "http://www.thedigitalcapabilitycompany.com/"],
+    ["Vrije Universiteit Amsterdam", "http://bachelors.vu.nl/nl/opleidingen/wiskunde/index.aspx"],
     ["Transtrend", "http://www.transtrend.com/nl/"],
     ["Universiteit Utrecht", "https://www.uu.nl/bachelors/wiskunde"],
-    
+    ["Universiteit Leiden", "http://www.studereninleiden.nl/studies/info/wiskunde/"],
+    ["TU Eindhoven", "https://www.tue.nl/en/university/departments/mathematics-and-computer-science/education/undergraduate-programs/applied-mathematics/"],
+    ["TU Delft", "http://www.tudelft.nl/studeren/bacheloropleidingen/overzicht-opleidingen/technische-wiskunde/"],
+    ["Optiver", "http://www.optiver.com/"],
+    ["Universiteit van Amsterdam", "http://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/content/wiskunde/wiskunde.html"],
+    ["Radboud Universiteit Nijmegen", "http://www.ru.nl/opleidingen/bachelor/wiskunde/"],
+    ["Rijksuniversiteit Groningen", "http://www.rug.nl/bachelors/mathematics/"],
 ];
 var n = sponsoren.length;
 var imgstart = Math.floor(Math.random() * n);
@@ -31,7 +38,10 @@ function veranderimgs()
 {
     for (i = 0; i < 7; i++)
     {
-        document.getElementById("sponsurl"+i).href = sponsoren[imgstart%n][1];
+		console.log(imgstart % n)
+		console.log(sponsoren)
+		console.log(sponsoren[imgstart % n])
+		document.getElementById("sponsurl"+i).href = sponsoren[imgstart%n][1];
         document.getElementById("sponsimg"+i).src = "img/logos/"+sponsoren[imgstart%n][0]+".png";
         document.getElementById("sponsimg"+i).title = sponsoren[imgstart%n][0];
         imgstart++;
