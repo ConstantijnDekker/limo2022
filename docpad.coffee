@@ -25,31 +25,9 @@ docpadConfig = {
         sponsors: (sponsor) ->
             switch sponsor
                 when "ASML" then "https://www.asml.com/careers/"
-                when "DIAMANT" then "http://websites.math.leidenuniv.nl/diamant/"
-                when "KHMW" then "http://www.khmw.nl/"
-                when "KNAW" then "https://www.knaw.nl/"
-                when "KWG" then "https://www.wiskgenoot.nl/"
-                when "RUNijmegen" then "http://www.ru.nl/"
-                when "TUeindhoven" then "https://www.tue.nl/"
-                when "UTwente" then "https://www.utwente.nl/"
                 when "UUtrecht" then "http://www.uu.nl/"
-                when "UvA" then "http://www.uva.nl/"
-                when "VU" then "https://www.vu.nl/"
-                when "Wonder" then "http://web.science.uu.nl/wonder/"
-
-                when "GQT" then "http://www.gqt.nl/"
-                when "KULeuven" then "https://www.kuleuven.be/"
-                when "Optiver" then "http://www.optiver.com/amsterdam/"
-                when "RUGroningen" then "http://www.rug.nl/"
                 when "Transtrend" then "http://www.transtrend.com/nl/"
-                when "TUDelft" then "http://www.tudelft.nl/"
-                when "UGent" then "http://www.ugent.be/"
-                when "ULeiden" then "http://www.universiteitleiden.nl/"
-
-                when "UMaastricht" then "http://www.maastrichtuniversity.nl/"
-                when "Qien" then "http://www.qien.eu/"
-                else "#"
-
+			    
         committee_src: "img/commissie/"
 
         # Sort of a dictionary where the first item of the tuple is the key
