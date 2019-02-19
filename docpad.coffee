@@ -121,7 +121,7 @@ docpadConfig = {
         development:
             templateData:
                 site:
-                   url: 'http://localhost:9778'
+                   url: 'https://limo2019.nsaweb.nl/'
 
     # =================================
     # Paths Configuration
