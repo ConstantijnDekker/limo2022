@@ -29,6 +29,12 @@ docpadConfig = {
                 when "Transtrend" then "http://www.transtrend.com/nl/"
                 when "FlowTraders" then "https://www.flowtraders.com/"
                 when "Digital" then "http://www.thedigitalcapabilitycompany.com/"
+                when "Optiver" then "http://www.optiver.com/"
+                when "KdVI" then "http://kdvi.uva.nl/"
+                when "FNWI" then "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"
+                when "EWI Twente" then "https://www.utwente.nl/nl/ewi/"
+                when "MI Leiden" then "https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/wiskunde"
+                
                 
         committee_src: "img/commissie/"
 

@@ -2,21 +2,18 @@ var sponsoren = [
 	["ASML", "https://www.asml.com/careers/"],
 	["FlowTraders", "https://www.flowtraders.com/"],
 	["Digital Capability Company", "http://www.thedigitalcapabilitycompany.com/"],
-    ["Vrije Universiteit Amsterdam", "http://bachelors.vu.nl/nl/opleidingen/wiskunde/index.aspx"],
     ["Transtrend", "http://www.transtrend.com/nl/"],
     ["Universiteit Utrecht", "https://www.uu.nl/bachelors/wiskunde"],
-    ["Universiteit Leiden", "http://www.studereninleiden.nl/studies/info/wiskunde/"],
-    ["TU Eindhoven", "https://www.tue.nl/en/university/departments/mathematics-and-computer-science/education/undergraduate-programs/applied-mathematics/"],
-    ["TU Delft", "http://www.tudelft.nl/studeren/bacheloropleidingen/overzicht-opleidingen/technische-wiskunde/"],
     ["Optiver", "http://www.optiver.com/"],
-    ["Universiteit van Amsterdam", "http://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/content/wiskunde/wiskunde.html"],
-    ["Radboud Universiteit Nijmegen", "http://www.ru.nl/opleidingen/bachelor/wiskunde/"],
-    ["Rijksuniversiteit Groningen", "http://www.rug.nl/bachelors/mathematics/"],
+	["KdVI", "http://kdvi.uva.nl/"],
+	["FNWI", "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"],
+	["EWI Twente", "https://www.utwente.nl/nl/ewi/"],
+	["MI Leiden", "https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/wiskunde"]
 ];
 var n = sponsoren.length;
 var imgstart = Math.floor(Math.random() * n);
 
-setInterval(imgs, 30000);
+setInterval(imgs, 2000);
 setTimeout(veranderimgs, 0);
 
 function imgs()
