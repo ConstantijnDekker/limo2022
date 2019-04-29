@@ -6,7 +6,4 @@ order: 2
 ---
 
 ### Inschrijven
-Inschrijven kan tot en met 26 april 2019 door <a href="https://goo.gl/forms/edBI9wvlPWOIQElx1" target="_blank">dit formulier</a> in te vullen.
-
-Wil je je graag aanmelden, maar heb je nog geen compleet team? Zoek andere lotgenoten op <a target="_blank" href="https://www.facebook.com/LIMO-1535595320102193/">Facebook</a> een berichtje achter te laten. Wie weet kan je alsnog een team vinden!
-
+De inschrijvingen zijn gesloten. Mocht je toch nog erg graag willen meedoen, stuur dan een mailtje naar limo2019@nsaweb.nl en dan kijken we wat er mogelijk is.
