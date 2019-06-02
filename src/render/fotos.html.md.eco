@@ -18,7 +18,7 @@ order: 7
 
         <% # Element per photo %>
         <% @getUrl(file) %>
-          <img class="img-responsive gallery-foto" src="<%= @site.url + thumbs_folder + file.basename + '.jpg' %>" alt="<%= file.basename %>" onclick="openModal();currentSlide(<%=n %>)" />
+          <img class="img-responsive gallery-foto" src="<%= @site.url + thumbs_folder + file.basename + '.JPG' %>" alt="<%= file.basename %>" onclick="openModal();currentSlide(<%=n %>)" />
           <% n = n + 1 %>
         <!-- /a -->
         <% console.log file %>
