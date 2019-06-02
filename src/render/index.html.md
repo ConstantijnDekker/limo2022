@@ -16,7 +16,7 @@ beslaan. Wiskundig inzicht en abstractievermogen zijn dus vereisten. Het is de
 bedoeling dat wiskundestudenten uit alle jaren aan de slag kunnen met de
 opgaven.
 
-De vijftiende editie van de LIMO vindt op 10 mei 2019 plaats in Amsterdam.
+De vijftiende editie van de LIMO heeft op 10 mei 2019 plaatsgevonden in Amsterdam.
 
 ### Comit&eacute; van aanbeveling
 

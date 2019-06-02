@@ -125,6 +125,14 @@ Op deze pagina staat een collectie van opgaven die gebruikt kan worden als oefen
         <td><!--<a href="archief/dagverslag18.pdf">Dagverslag</a>--></td>
         <td><a href="http://limo.fmf.nl/">Site</a></td>
       </tr>
+	  <tr>
+        <td>2019 (Amsterdam):</td>
+        <td><a href="archief/limo2019opg.pdf">Opgaven</a></td>
+        <td><a href="archief/limo2019opl.pdf">Uitwerkingen</a></td>
+        <td><a href="archief/uitslag19.pdf">Uitslag</a></td>
+        <td><!--<a href="archief/dagverslag19.pdf">Dagverslag</a>--></td>
+        <td><a href="http://limo2019.nsaweb.nl/">Site</a></td>
+      </tr>
     </tbody>
   </table>
 </div>

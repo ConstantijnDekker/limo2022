@@ -13,7 +13,7 @@ var sponsoren = [
 var n = sponsoren.length;
 var imgstart = Math.floor(Math.random() * n);
 
-setInterval(imgs, 2000);
+setInterval(imgs, 5000);
 setTimeout(veranderimgs, 0);
 
 function imgs()
