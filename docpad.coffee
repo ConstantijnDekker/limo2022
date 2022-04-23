@@ -39,12 +39,14 @@ docpadConfig = {
 
         # Sort of a dictionary where the first item of the tuple is the key
         committee_list: [
-            {abbr: 'Jolein',    name: 'Jolein Rau',      func: 'Voorzitter'},
-            {abbr: 'Lies',    name: 'Lies Beers',   func: 'Secretaris'},
-            {abbr: 'Simon',   name: 'Simon Wittkamp',  func: 'Penningmeester'},
-            {abbr: 'Pim', name: 'Pim Meulenkamp', func: 'Commissaris Acquisitie'},
-            {abbr: 'Wouter',  name: 'Wouter Rienks',   func: 'Wedstrijdcommissaris'},
-            {abbr: 'Constantijn',    name: 'Constantijn Dekker', func: 'Commissaris ICT'},
+            {abbr: 'Jolein',      name: 'Jolein Rau',         func: 'Voorzitter'},
+            {abbr: 'Pim',         name: 'Pim Meulenkamp',     func: 'Acquisitie'},
+	    {abbr: 'Siebe',       name: 'Siebe Verheijen',    func: 'Algemeen'},
+            {abbr: 'Jim',         name: 'Jim Bol',            func: 'Catering'},
+	    {abbr: 'Matthijs',    name: 'Matthijs Pool',      func: 'Externerelaties'},
+            {abbr: 'Casper',      name: 'Casper Loman',       func: 'Promotie'},
+            {abbr: 'Constantijn', name: 'Constantijn Dekker', func: 'ICT'},
+            {abbr: 'Alec',        name: 'Alec van Duin',      func: 'Contactbestuur'},
         ]
 
         # Specify some site properties

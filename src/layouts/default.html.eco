@@ -101,7 +101,7 @@
           
           <% # Only show our logo if not on for instance the committee page %>
           <% if @document.showLogo : %>
-            <img id="limo-logo" class="img-responsive pull-right" src="img/limo-logo-2022-kleur.png" width="350" alt="limo-logo" />
+            <img id="limo-logo" class="img-responsive pull-right" src="img/limo-logo-2022-kleur.png" width="200" alt="limo-logo" />
           <% end %>
           <%- @content %>
 
