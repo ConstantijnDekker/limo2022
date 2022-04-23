@@ -109,7 +109,7 @@ Op deze pagina staat een collectie van opgaven die gebruikt kan worden als oefen
         <td><a href="archief/dagverslag16.pdf">Dagverslag</a></td>
         <td><a href="http://nsaweb.nl/limo2016/">Site</a></td>
       </tr>
-	  <tr>
+      <tr>
         <td>2017 (Nijmegen):</td>
         <td><a href="archief/limo2017opg.pdf">Opgaven</a></td>
         <td><a href="archief/limo2017opl.pdf">Uitwerkingen</a></td>
@@ -117,7 +117,7 @@ Op deze pagina staat een collectie van opgaven die gebruikt kan worden als oefen
         <td><a href="archief/dagverslag17.pdf">Dagverslag</a></td>
         <td><a href="https://desda.org/limo2017/">Site</a></td>
       </tr>
-	  <tr>
+      <tr>
         <td>2018 (Groningen):</td>
         <td><a href="archief/limo2018opg.pdf">Opgaven</a></td>
         <td><a href="archief/limo2018opl.pdf">Uitwerkingen</a></td>
@@ -125,13 +125,29 @@ Op deze pagina staat een collectie van opgaven die gebruikt kan worden als oefen
         <td><!--<a href="archief/dagverslag18.pdf">Dagverslag</a>--></td>
         <td><a href="http://limo.fmf.nl/">Site</a></td>
       </tr>
-	  <tr>
+      <tr>
         <td>2019 (Amsterdam):</td>
         <td><a href="archief/limo2019opg.pdf">Opgaven</a></td>
         <td><a href="archief/limo2019opl.pdf">Uitwerkingen</a></td>
         <td><a href="archief/uitslag19.pdf">Uitslag</a></td>
         <td><a href="archief/dagverslag19.pdf">Dagverslag</a></td>
         <td><a href="http://limo2019.nsaweb.nl/">Site</a></td>
+      </tr>
+      <tr>
+        <td>2020 (Utrecht):</td>
+        <td><a href="archief/limo2020opg.pdf">Opgaven</a></td>
+        <td><a href="archief/limo2020opl.pdf">Uitwerkingen</a></td>
+        <td><a href="archief/uitslag20.pdf">Uitslag</a></td>
+        <td><a href="archief/dagverslag20.pdf">Dagverslag</a></td>
+	<td><a href="https://limo2020.a-eskwadraat.nl/">Site</a></td>
+      </tr>
+      <tr>
+        <td>2021 (Utrecht):</td>
+        <td><a href="archief/limo2021opg_NL.pdf">Opgaven</a></td>
+        <td><a href="archief/limo2021opl_NL.pdf">Uitwerkingen</a></td>
+        <td><a href="archief/uitslag21.xlsx">Uitslag</a></td>
+        <td></td>
+	<td><a href="https://limo2021.a-eskwadraat.nl"/>Site</a></td>
       </tr>
     </tbody>
   </table>

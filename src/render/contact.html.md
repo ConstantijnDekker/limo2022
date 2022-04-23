@@ -10,14 +10,11 @@ order: 15
 Alle vragen en opmerkingen zijn welkom, wel het liefste via e-mail.
 
 _Natuurwetenschappelijke Studievereniging Amsterdam_  
-t.a.v. LIMO 2019<br />
+t.a.v. LIMO 2022<br />
 Science Park 904 &nbsp; A0.08<br />
 1098XH &nbsp; Amsterdam
 
-E-mail: <limo2019@nsaweb.nl>  
-
-We hebben ook een <a href="https://www.facebook.com/LIMO-1535595320102193" target="_blank">Facebookpagina</a>.
-
+E-mail: <limo@nsaweb.nl>  
 
 ### Routebeschrijving
 
@@ -27,7 +24,6 @@ NS-station Amsterdam Science Park is op loopafstand van het FNWI-gebouw. Kijk op
 ##### Vervoer per bus
 <ul>
 <li>Bus 40 rijdt tussen Station Amstel en Station Muiderpoort via het Science Park. Met vijf bushaltes zijn alle gebouwen van het Science Park goed bereikbaar.</li>
-<li>Bus 240 rijdt tijdens spitsuren heen en weer tussen NS Station Amsterdam Amstel en het Science Park.</li>
 </ul>
 Kijk op de <a href="https://www.gvb.nl/" target="_blank">website</a> van het Gemeente Vervoer Bedrijf Amsterdam (GVB) voor de dienstregeling.
 

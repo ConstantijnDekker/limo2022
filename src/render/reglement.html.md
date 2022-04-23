@@ -6,7 +6,7 @@ order: 7
 ---
 ### Algemeen
 
-Dit reglement is opgemaakt door de commissie van de LIMO 2019 op 1 februari 2019. De LIMO-commissie kan te allen tijde afwijken van het reglement. Opmerkingen, vragen en klachten omtrent het reglement kunnen aan de LIMO-commissie worden gericht.
+Dit reglement is opgemaakt door de commissie van de LIMO 2022 op 1 februari 2022. De LIMO-commissie kan te allen tijde afwijken van het reglement. Opmerkingen, vragen en klachten omtrent het reglement kunnen aan de LIMO-commissie worden gericht.
 
 ### Samenstelling studententeams
 
@@ -22,7 +22,7 @@ Het is mogelijk voor bedrijven en instellingen om mee te doen aan de wedstrijd. 
 
 ### Inschrijfprocedure en selectie deelnemers
 
-Alle teams dienen zich vooraf in te schrijven voor de wedstrijd via de site van de LIMO 2019. Inschrijven kan tot 26 april. Mochten er daarna nog plekken over zijn, dan is later inschrijven ook nog mogelijk. De LIMO-commissie beslist welke teams mogen deelnemen, maar zal proberen alle teams mee te laten doen. Indien er te veel teams zijn voordat de inschrijving sluit, zullen eerst de teams buiten mededinging afvallen. Mocht dit onvoldoende blijken, zal allereerst het aantal teams beperkt worden tot een vast aantal voor iedere onderwijsinstelling. De eventueel hierna overgebleven plekken worden verloot.
+Alle teams dienen zich vooraf in te schrijven voor de wedstrijd via de site van de LIMO 2022. Inschrijven kan tot 26 april. Mochten er daarna nog plekken over zijn, dan is later inschrijven ook nog mogelijk. De LIMO-commissie beslist welke teams mogen deelnemen, maar zal proberen alle teams mee te laten doen. Indien er te veel teams zijn voordat de inschrijving sluit, zullen eerst de teams buiten mededinging afvallen. Mocht dit onvoldoende blijken, zal allereerst het aantal teams beperkt worden tot een vast aantal voor iedere onderwijsinstelling. De eventueel hierna overgebleven plekken worden verloot.
 
 ### Kosten
 
@@ -32,7 +32,7 @@ De kosten voor deelname moeten op de dag zelf contant worden betaald.
 
 ### Reiskostenvergoeding
 
-Deelnemende studenten kunnen aanspraak maken op reiskostenvergoeding voor zover deze niet gedekt worden door hun studenten OV-kaart. Van deelnemers wordt verwacht dat ze gebruik maken van hun vrij reizen of hun korting gebruiken. Als er toch kosten gemaakt worden, kunnen deze tot een maximum van €20,- per persoon vergoed worden. Voor het declareren moet het volgende <a href="archief/declareren.pdf">formulier</a> voor 24 mei naar limo2019@nsaweb.nl worden gemaild, samen met een overzicht/bewijs van de gemaakte kosten. Een uitdraai van <a href="https://www.ov-chipkaart.nl/home.htm#/" target="_blank">je ov</a> voldoet hieraan. Alleen kosten gemaakt met het openbaar vervoer komen in aanmerking voor deze vergoeding, tenzij vooraf anders overeengekomen met de LIMO-commissie.
+Deelnemende studenten kunnen aanspraak maken op reiskostenvergoeding voor zover deze niet gedekt worden door hun studenten OV-kaart. Van deelnemers wordt verwacht dat ze gebruik maken van hun vrij reizen of hun korting gebruiken. Als er toch kosten gemaakt worden, kunnen deze tot een maximum van €20,- per persoon vergoed worden. Voor het declareren moet het volgende <a href="archief/declareren.pdf">formulier</a> voor 24 mei naar limo@nsaweb.nl worden gemaild, samen met een overzicht/bewijs van de gemaakte kosten. Een uitdraai van <a href="https://www.ov-chipkaart.nl/home.htm#/" target="_blank">je ov</a> voldoet hieraan. Alleen kosten gemaakt met het openbaar vervoer komen in aanmerking voor deze vergoeding, tenzij vooraf anders overeengekomen met de LIMO-commissie.
 
 ### Wedstrijd
 
