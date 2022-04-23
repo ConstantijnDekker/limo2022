@@ -1,8 +1,9 @@
 {
-  "name": "limo2019.docpad",
+  "name": "limo2022.docpad",
   "version": "0.1.0",
   "description": "De LIMO is een wiskundewedstrijd tussen teams van verschillende universiteiten.",
   "dependencies": {
+    "coffeescript": "2.6.1",
     "docpad": "~6.79.0",
     "docpad-plugin-coffeescript": "~2.7.0",
     "docpad-plugin-eco": "~2.3.0",
