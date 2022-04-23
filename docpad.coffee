@@ -41,9 +41,9 @@ docpadConfig = {
         committee_list: [
             {abbr: 'Jolein',      name: 'Jolein Rau',         func: 'Voorzitter'},
             {abbr: 'Pim',         name: 'Pim Meulenkamp',     func: 'Acquisitie'},
-	    {abbr: 'Siebe',       name: 'Siebe Verheijen',    func: 'Algemeen'},
+            {abbr: 'Siebe',       name: 'Siebe Verheijen',    func: 'Algemeen'},
             {abbr: 'Jim',         name: 'Jim Bol',            func: 'Catering'},
-	    {abbr: 'Matthijs',    name: 'Matthijs Pool',      func: 'Externerelaties'},
+            {abbr: 'Matthijs',    name: 'Matthijs Pool',      func: 'Externerelaties'},
             {abbr: 'Casper',      name: 'Casper Loman',       func: 'Promotie'},
             {abbr: 'Constantijn', name: 'Constantijn Dekker', func: 'ICT'},
             {abbr: 'Alec',        name: 'Alec van Duin',      func: 'Contactbestuur'},
