@@ -1,9 +1,8 @@
 var sponsoren = [
 	["ASML", "https://www.asml.com/careers/"],
 	["FlowTraders", "https://www.flowtraders.com/"],
-	["Digital Capability Company", "http://www.thedigitalcapabilitycompany.com/"],
     ["Transtrend", "http://www.transtrend.com/nl/"],
-    ["Universiteit Utrecht", "https://www.uu.nl/bachelors/wiskunde"],
+    ["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
     ["Optiver", "http://www.optiver.com/"],
 	["KdVI", "http://kdvi.uva.nl/"],
 	["FNWI", "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"],

@@ -19,7 +19,6 @@ docpadConfig = {
     # Template Data
     # Use to define your own template data and helpers that will be accessible to your templates
     # Complete listing of default values can be found here: http://docpad.org/docs/template-data
-    #when "Digital" then "http://www.thedigitalcapabilitycompany.com/"
     templateData:
 
         # Switch that acts as a dictionary to link images to sponsor sites
