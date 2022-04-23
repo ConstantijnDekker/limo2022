@@ -6,4 +6,6 @@ order: 2
 ---
 
 ### Inschrijven
-De inschrijvingen zijn gesloten. Mocht je toch nog erg graag willen meedoen, stuur dan een mailtje naar limo2019@nsaweb.nl en dan kijken we wat er mogelijk is.
+Inschrijven kan tot en met ... 2022 door <a href="https://goo.gl/forms/edBI9wvlPWOIQElx1" target="_blank">dit formulier</a> in te vullen.
+
+Wil je je graag aanmelden, maar heb je nog geen compleet team? Zoek andere lotgenoten op door bij het <a target="_blank" href="https://www.facebook.com/events/1468075653237350/">Facebookevenement</a> een berichtje achter te laten. Wie weet kan je alsnog een team vinden!

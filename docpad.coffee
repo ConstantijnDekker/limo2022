@@ -19,6 +19,7 @@ docpadConfig = {
     # Template Data
     # Use to define your own template data and helpers that will be accessible to your templates
     # Complete listing of default values can be found here: http://docpad.org/docs/template-data
+    #when "Digital" then "http://www.thedigitalcapabilitycompany.com/"
     templateData:
 
         # Switch that acts as a dictionary to link images to sponsor sites
@@ -28,7 +29,6 @@ docpadConfig = {
                 when "UUtrecht" then "http://www.uu.nl/"
                 when "Transtrend" then "http://www.transtrend.com/nl/"
                 when "FlowTraders" then "https://www.flowtraders.com/"
-                when "Digital" then "http://www.thedigitalcapabilitycompany.com/"
                 when "Optiver" then "http://www.optiver.com/"
                 when "KdVI" then "http://kdvi.uva.nl/"
                 when "FNWI" then "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"
@@ -40,12 +40,12 @@ docpadConfig = {
 
         # Sort of a dictionary where the first item of the tuple is the key
         committee_list: [
-            {abbr: 'Femke',    name: 'Femke Madsen',      func: 'Voorzitter'},
+            {abbr: 'Jolein',    name: 'Jolein Rau',      func: 'Voorzitter'},
             {abbr: 'Lies',    name: 'Lies Beers',   func: 'Secretaris'},
             {abbr: 'Simon',   name: 'Simon Wittkamp',  func: 'Penningmeester'},
-            {abbr: 'Duncan', name: 'Duncan Pelan', func: 'Commissaris Acquisitie'},
+            {abbr: 'Pim', name: 'Pim Meulenkamp', func: 'Commissaris Acquisitie'},
             {abbr: 'Wouter',  name: 'Wouter Rienks',   func: 'Wedstrijdcommissaris'},
-            {abbr: 'Sebastian',    name: 'Sebastian Zur', func: 'Commissaris ICT'},
+            {abbr: 'Constantijn',    name: 'Constantijn Dekker', func: 'Commissaris ICT'},
         ]
 
         # Specify some site properties

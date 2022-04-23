@@ -8,4 +8,5 @@ Deze site is in 2016 geschreven door Ismani Nieuweboer (github.com/inieuweboer/l
 De 2017-editie is geüpdated door Koen Timmermans, de 2019-editie geüpdated door Sebastian Zur en de 2022 versie is geupdated door Constantijn Dekker.
 
 Contact:
-limo2022 [apenstaartje] nsaweb [punt] nl
+limo [apenstaartje] nsaweb [punt] nl
+

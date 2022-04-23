@@ -48,7 +48,7 @@
             <span class="icon-bar"></span>
           </button>
           <a id="limo-navbar" class="pull-left" href="<%= @site.url %>">
-            <img src="img/limo-logo-2022-navbar.jpg" height="48px" alt="limo-logo-navbar" />
+            <img src="img/limo-logo-2022-navbar.png" height="48px" alt="limo-logo-navbar" />
           </a>
           <a class="navbar-brand" href="<%= @site.url %>">LIMO 2022</a >
         </div>
@@ -101,7 +101,7 @@
           
           <% # Only show our logo if not on for instance the committee page %>
           <% if @document.showLogo : %>
-            <img id="limo-logo" class="img-responsive pull-right" src="img/limo-logo-2022-kleur.jpg" width="350" alt="limo-logo" />
+            <img id="limo-logo" class="img-responsive pull-right" src="img/limo-logo-2022-kleur.png" width="350" alt="limo-logo" />
           <% end %>
           <%- @content %>
 
