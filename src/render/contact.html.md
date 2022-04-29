@@ -36,8 +36,8 @@ Na 400 meter rijdt u onder NS-station Amsterdam Science Park door en kruist u de
 Op Amsterdam Science Park kunt u de bewegwijzering volgen naar de juiste parkeerterreinen. U kunt parkeren op de openbare parkeerterreinen P3 of P7 en op de parkeerterreinen rondom de onderzoeksinstituten. 
 Volg hiervoor de borden met een ''P". Let wel, vol = vol 
 
-### Declareren reiskosten
-Het is mogelijk om reiskosten te declareren, zoals in het <a href="reglement.html">reglement</a> vermeld staat, tenzij anders overeengekomen met de commissie.
+[//]: # (### Declareren reiskosten
+Het is mogelijk om reiskosten te declareren, zoals in het <a href="reglement.html">reglement</a> vermeld staat, tenzij anders overeengekomen met de commissie.)
 
 ### Kaart
 <center><img style="max-width: 100%" src="img/kaart.png" /></center>
