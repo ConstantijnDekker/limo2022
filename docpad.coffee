@@ -41,12 +41,12 @@ docpadConfig = {
         committee_list: [
             {abbr: 'Jolein',      name: 'Jolein Rau',         func: 'Voorzitter'},
             {abbr: 'Pim',         name: 'Pim Meulenkamp',     func: 'Acquisitie'},
-            {abbr: 'Siebe',       name: 'Siebe Verheijen',    func: 'Faciliteiten'},
             {abbr: 'Jim',         name: 'Jim Wittebol',            func: 'Catering'},
             {abbr: 'Matthijs',    name: 'Matthijs Pool',      func: 'Externe relaties'},
             {abbr: 'Casper',      name: 'Casper Loman',       func: 'Promotie'},
             {abbr: 'Constantijn', name: 'Constantijn Dekker', func: 'ICT'},
             {abbr: 'Alec',        name: 'Alec van Duin',      func: 'Contact bestuur'},
+            {abbr: 'Siebe',       name: 'Siebe Verheijen',    func: 'Faciliteiten'},
         ]
 
         # Specify some site properties

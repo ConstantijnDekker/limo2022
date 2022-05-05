@@ -13,7 +13,6 @@ De LIMO-commissie is dit jaar als volgt samengesteld:
   <% # Loop across committee members defined in docpad.coffee %>
   <% for item in @committee_list: %>
     <span class="col-sm-4"> <% #really weird how it acts with div instead of span %>
-
       <img class="img-responsive commissie-foto" src="<%- "img/commissie/#{item.abbr}.jpg"%>" alt="<%- item.abbr%>" />
       <p class="name text-center">
         <%- item.name %>
