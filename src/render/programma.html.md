@@ -43,7 +43,7 @@ order: 6
       <tr>
         <td>15:30</td>
         <td>17:00</td>
-        <td>Borrel (deel 1)</td>
+        <td>Pauze</td>
         <td>Brainwave</td>
       </tr>
       <tr>
