@@ -6,8 +6,8 @@ var sponsoren = [
     ["Diamant", "https://diamant.science.uu.nl/"],
     ["TUDelft", "https://www.tudelft.nl/"],
     //["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
-	//["KdVI", "http://kdvi.uva.nl/"],
-	//["FNWI", "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"],
+    ["KdVI", "http://kdvi.uva.nl/"],
+    ["FNWI", "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"],
 	//["EWI Twente", "https://www.utwente.nl/nl/ewi/"],
 	//["MI Leiden", "https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/wiskunde"]
 ];
