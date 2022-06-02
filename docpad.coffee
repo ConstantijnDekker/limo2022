@@ -34,7 +34,7 @@ docpadConfig = {
         committee_list: [
             {abbr: 'Jolein',      name: 'Jolein Rau',         func: 'Voorzitter'},
             {abbr: 'Pim',         name: 'Pim Meulenkamp',     func: 'Acquisitie'},
-            {abbr: 'Jim',         name: 'Jim Wittebol',            func: 'Catering'},
+            {abbr: 'Jim',         name: 'Jim Wittebol',       func: 'Catering'},
             {abbr: 'Matthijs',    name: 'Matthijs Pool',      func: 'Externe relaties'},
             {abbr: 'Casper',      name: 'Casper Loman',       func: 'Promotie'},
             {abbr: 'Constantijn', name: 'Constantijn Dekker', func: 'ICT'},
@@ -101,8 +101,6 @@ docpadConfig = {
         development:
             templateData:
                 site:
-                    #url: 'https://limo2022.nsaweb.nl'
-                    #url: 'http://localhost:9778'
                     url: '.'
 
     # =================================
