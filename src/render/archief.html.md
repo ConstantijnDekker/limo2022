@@ -149,6 +149,14 @@ Op deze pagina staat een collectie van opgaven die gebruikt kan worden als oefen
         <td></td>
 	<td><a href="https://limo2021.a-eskwadraat.nl"/>Site</a></td>
       </tr>
+      <tr>
+        <td>2022 (Amsterdam):</td>
+        <td><a href="archief/limo2022opg.pdf">Opgaven</a></td>
+        <td><a href="archief/limo2022opl.pdf">Uitwerkingen</a></td>
+        <td><a href="archief/uitslag22.pdf">Uitslag</a></td>
+        <td></td>
+	<td><a href="https://limo2022.nsaweb.nl"/>Site</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
